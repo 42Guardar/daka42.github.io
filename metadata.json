@@ -1,0 +1,6 @@
+{
+  "name": "DOME",
+  "description": "Una página interactiva y especial para Dome, con diseño visual premium optimizado para móviles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
