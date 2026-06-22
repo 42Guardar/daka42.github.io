@@ -198,7 +198,7 @@ export default function App() {
               <div className="absolute -inset-8 bg-purple-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug px-4 select-none relative z-10">
                 NO SABIA COMO <br />
-                DECIRLO ASI QUE <br />
+                DECIRLO, ASI QUE <br />
                 PENSE EN ESTO
               </h2>
             </div>
@@ -228,8 +228,8 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-indigo-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug select-none relative z-10">
-                ESTOY NERVIOSO <br />
-                COMO ESTABAS EL <br />
+                ESTOY NERVIOSO. <br />
+                COMO LO ESTABAS EL <br />
                 DIA QUE GRABAMOS
               </h2>
             </div>
