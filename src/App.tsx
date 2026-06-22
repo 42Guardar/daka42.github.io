@@ -123,7 +123,7 @@ export default function App() {
     } else {
       // Second click: Redirect to WhatsApp successfully!
       triggerSuccess();
-      window.location.href = "https://wa.me/593969288780?text=A%20MI%20TAMBIEN";
+      window.location.href = "https://wa.me/593969288780?text=A%20mi%20tambien%20me%20gustas%20%E2%99%A5";
     }
   };
 
@@ -437,7 +437,7 @@ export default function App() {
                       <button
                         onClick={() => {
                           triggerSuccess();
-                          window.location.href = "https://wa.me/593969288780?text=A%20MI%20TAMBIEN";
+                          window.location.href = "https://wa.me/593969288780?text=A%20mi%20tambien%20me%20gustas%20%E2%99%A5";
                         }}
                         className="py-3 px-5 bg-gradient-to-r from-pink-500 to-rose-450 hover:opacity-95 text-white rounded-xl text-base font-extrabold tracking-wider uppercase transition-all shadow-md shadow-pink-200 cursor-pointer active:scale-95"
                       >
