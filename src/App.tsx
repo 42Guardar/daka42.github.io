@@ -228,9 +228,9 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-indigo-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug select-none relative z-10">
-                PERO QUE SE <br />
+                ¿PERO QUE SE <br />
                 SUPONE QUE <br />
-                DEBERIA HACER
+                DEBERIA HACER?
               </h2>
             </div>
 
@@ -290,9 +290,7 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-pink-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-5xl md:text-7xl font-extrabold uppercase tracking-widest select-none relative z-10">
-                ES INUSUAL
-                ESTA FORMA
-                PERO....
+                ASI QUE....
               </h2>
             </div>
 
