@@ -197,9 +197,9 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-purple-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug px-4 select-none relative z-10">
-                NO SABIA COMO <br />
-                DECIRLO, ASI QUE <br />
-                PENSE EN ESTO
+                PERDON POR <br />
+                DECIR ESTO <br />
+                TAN PRONTO
               </h2>
             </div>
             
@@ -228,9 +228,9 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-indigo-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug select-none relative z-10">
-                ESTOY NERVIOSO. <br />
-                COMO LO ESTABAS EL <br />
-                DIA QUE GRABAMOS
+                PERO QUE SE <br />
+                SUPONE QUE <br />
+                DEBERIA HACER
               </h2>
             </div>
 
@@ -259,9 +259,9 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-pink-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-2xl md:text-4xl font-extrabold uppercase tracking-wide leading-snug select-none relative z-10">
-                ES UN POCO <br />
-                INUSUAL ESTA <br />
-                FORMA
+                SI ME MIRABAS <br />
+                CON ESOS OJITOS <br />
+                LINDOS
               </h2>
             </div>
 
@@ -290,7 +290,9 @@ export default function App() {
             <div className="flex-1 flex flex-col items-center justify-center relative">
               <div className="absolute -inset-8 bg-pink-300/15 rounded-full blur-2xl pointer-events-none"></div>
               <h2 className="text-slate-800 text-5xl md:text-7xl font-extrabold uppercase tracking-widest select-none relative z-10">
-                PERO...
+                ES INUSUAL
+                ESTA FORMA
+                PERO....
               </h2>
             </div>
 
