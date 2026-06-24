@@ -168,7 +168,7 @@ export default function App() {
                 HOLA :)
               </span>
               <h1 className="text-slate-800 text-6xl md:text-8xl font-black tracking-normal uppercase py-1 select-none font-sans filter drop-shadow-[0_4px_12px_rgba(236,72,153,0.12)] leading-none relative z-10">
-                DOME
+                Momee
               </h1>
             </div>
 
